@@ -1,0 +1,5 @@
+ENVIRONMENT/
+__init__.py
+__pycache__/
+*.sqlite3
+.vscode/
