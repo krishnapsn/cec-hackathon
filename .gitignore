@@ -3,3 +3,14 @@ __init__.py
 __pycache__/
 *.sqlite3
 .vscode/
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+node_modules
